@@ -1,3 +1,3 @@
 # Cloth-Manipulation with Landmarks
 
-Website (https://cloth-manipulation-landmarks.github.io/cml-web/) for paper "Cloth-manipulation Leveraging Category Classification and Landmarks Detection" submitted to TODO
+Website (https://cloth-manipulation-landmarks.github.io/cml-web/) for the paper "Cloth Manipulation based on Category Classification and Landmark Detection" submitted to "ICARSC’20 Special Issue" in the Journal of Intelligent & Robotic Systems (JINT) from Springer
